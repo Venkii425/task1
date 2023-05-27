@@ -1,0 +1,2 @@
+Log File
+This is the log file for assign1
